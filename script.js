@@ -1,4 +1,4 @@
-const api = "45d7107c1f068b120905384f278110cd"
+const api = "YOUR_API_KEY_HEREr"
 
 const cityInput = document.getElementById("cityInput")
 const searchBtn = document.getElementById("searchBtn")
